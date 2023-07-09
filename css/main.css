@@ -60,23 +60,23 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: AliceBlue;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: AntiqueWhite;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: Aqua;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: Aquamarine;
   }
 
   footer {
-    background-color: ;
+    background-color: Azure;
   }
   
 }
@@ -85,23 +85,23 @@ footer {
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: ;
+    background-color: Beige;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: Bisque;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: Black;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: BlanchedAlmond;
   }
 
   footer {
-    background-color: ;
+    background-color: Blue;
   }
    
 }
